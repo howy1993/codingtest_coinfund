@@ -1,7 +1,7 @@
 ## FIFO Cryptocurrency Trades Calculator
 ## Overview
-This implements a cryptocurrency trades calculator using FIFO order. The program prints current holdings and a profit/loss breakdown for each cryptocurrency purchased.
-Coinfund.io's coding assignment for Summer 2019 Intern Applications.
+This implements a cryptocurrency trades calculator using FIFO order. The program prints current holdings and a profit/loss breakdown for each cryptocurrency purchased. For the transaction file, transactions should be listed in chronological order for the program to give accurate results.
+This is coinfund.io's coding assignment for Summer 2019 Intern Applications.
 
 ## Running the program
 python3 fifo.py transactions.csv
